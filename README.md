@@ -1,3 +1,4 @@
-Hello, I'm Bilal, and this is where I manage my software.
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=bsalha1&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=333333)
+<h1 align=center> Bilal Salha
+<br><br>
+  
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=bsalha1&layout=compact&langs_count=8&hide_border=true&title_color=adbac7&icon_color=adbac7&text_color=adbac7&bg_color=2d333b)
